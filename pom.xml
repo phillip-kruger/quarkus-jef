@@ -20,7 +20,8 @@
     <module>mcu-core</module>
     <module>deployment</module>
     <module>runtime</module>
-  </modules>
+      <module>docs-rag</module>
+    </modules>
   <scm>
     <connection>scm:git:git@github.com:quarkiverse/quarkus-jef.git</connection>
     <developerConnection>scm:git:git@github.com:quarkiverse/quarkus-jef.git</developerConnection>
